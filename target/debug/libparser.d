@@ -1,0 +1,1 @@
+/home/max/coding/interpreter/target/debug/libparser.rlib: /home/max/coding/interpreter/ast/src/lib.rs /home/max/coding/interpreter/lexer/src/lib.rs /home/max/coding/interpreter/parser/src/lib.rs /home/max/coding/interpreter/token/src/lib.rs
